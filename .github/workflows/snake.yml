@@ -16,7 +16,6 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
 
     steps:
       - name: Generate Contribution Snake
@@ -25,9 +24,9 @@ jobs:
           github_user_name: priyanshujoshi877
 
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=00E5FF&color_dots=243B63,2563EB,3B82F6,60A5FA,22D3EE
-            dist/github-contribution-grid-snake-dark.svg?color_snake=00E5FF&color_dots=243B63,2563EB,3B82F6,60A5FA,22D3EE
-            dist/github-contribution-grid-snake.gif?color_snake=00E5FF&color_dots=243B63,2563EB,3B82F6,60A5FA,22D3EE&color_background=050A18
+            dist/github-contribution-grid-snake.svg?color_snake=#00E5FF&color_dots=#161B22,#0B3B82,#0066FF,#38BDF8,#7DD3FC
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#00E5FF&color_dots=#161B22,#0B3B82,#0066FF,#38BDF8,#7DD3FC
+            dist/github-contribution-grid-snake.gif?color_snake=#00E5FF&color_dots=#161B22,#0B3B82,#0066FF,#38BDF8,#7DD3FC&color_background=#050A18
 
       - name: Push Snake Animation
         uses: crazy-max/ghaction-github-pages@v4
