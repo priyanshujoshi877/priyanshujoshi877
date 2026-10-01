@@ -31,7 +31,7 @@
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 > **Full-Stack Developer | AI/ML Engineer | Project Builder**
 
@@ -43,24 +43,24 @@ Alongside development, I'm strengthening my **C++ and Data Structures & Algorith
 
 ---
 
-# 🚀 What I'm Working On
+#  What I'm Working On
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   🌐 Full-Stack Development                                │
+│    Full-Stack Development                                │
 │      Building complete end-to-end web applications          │
 │                                                             │
-│   🤖 AI & Machine Learning                                 │
+│    AI & Machine Learning                                 │
 │      Exploring ML models and intelligent applications       │
 │                                                             │
-│   🧠 Data Structures & Algorithms                           │
+│    Data Structures & Algorithms                           │
 │      Strengthening problem-solving with C++                 │
 │                                                             │
-│   🛠️ Projects & Debugging                                  │
+│    Projects & Debugging                                  │
 │      Building → Testing → Debugging → Improving              │
 │                                                             │
-│   ⚡ Continuous Learning                                   │
+│    Continuous Learning                                   │
 │      Exploring modern tools, frameworks & technologies       │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
@@ -68,7 +68,7 @@ Alongside development, I'm strengthening my **C++ and Data Structures & Algorith
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 ### 🌐 Frontend
 
