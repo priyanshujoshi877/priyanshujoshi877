@@ -143,20 +143,6 @@ Alongside development, I'm strengthening my **C++ and Data Structures & Algorith
 
 ---
 
-# 🔥 Development Philosophy
-
-<div align="center">
-
-### **BUILD → BREAK → DEBUG → IMPROVE → REPEAT**
-
-<br>
-
-*"I don't just learn technologies — I build with them."*
-
-</div>
-
----
-
 # 📌 Current Focus
 
 ```javascript
