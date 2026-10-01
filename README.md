@@ -221,9 +221,9 @@ const priyanshu = {
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/priyanshujoshi877/priyanshujoshi877/output/github-contribution-grid-snake-dark.svg"
+  src="https://raw.githubusercontent.com/priyanshujoshi877/priyanshujoshi877/output/github-contribution-grid-snake.gif"
   width="95%"
-  alt="GitHub Contribution Snake"
+  alt="Priyanshu GitHub Contribution Snake"
 />
 
 </div>
