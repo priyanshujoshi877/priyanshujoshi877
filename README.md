@@ -219,13 +219,7 @@ const priyanshu = {
 
 <div align="center">
 
-<div align="center">
-
-## ⚡ CODING ACTIVITY
-
-<img src="https://github-readme-streak-stats.demolab.com/?user=priyanshujoshi877&theme=tokyonight&hide_border=true" width="90%"/>
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshujoshi877&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
