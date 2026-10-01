@@ -210,8 +210,7 @@ const priyanshu = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshujoshi877&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshujoshi877&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=8&row=2&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
 </div>
 
 ---
@@ -220,7 +219,7 @@ const priyanshu = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshujoshi877&bg_color=050A18&color=38BDF8&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshujoshi877&bg_color=050A18&color=38BDF8&line=00A6FF&point=FFFFFF&area=true&area_color=0B3B82&title_color=38BDF8&border_color=0B3B82&hide_border=true&radius=12&custom_title=PRIYANSHU%20JOSHI%20%7C%20GITHUB%20ACTIVITY" width="100%"/>
 
 </div>
 
