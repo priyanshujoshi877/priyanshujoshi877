@@ -192,25 +192,6 @@ const priyanshu = {
 
 ---
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=priyanshujoshi877&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=8&row=2&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%"/>
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshujoshi877" width="100%" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -235,7 +216,7 @@ const priyanshu = {
 
 ### 💙 Thanks for visiting my profile!
 
-**Building the future, one project at a time.**
+
 
 <br>
 
