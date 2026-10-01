@@ -129,19 +129,6 @@ Alongside development, I'm strengthening my **C++ and Data Structures & Algorith
 
 # 🧩 What I Do
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/priyanshujoshi877/priyanshujoshi877/output/github-contribution-grid-snake.gif"
-  width="95%"
-  alt="Priyanshu GitHub Contribution Snake"
-/>
-
-</div>
-
----
 
 # 📌 Current Focus
 
