@@ -214,6 +214,20 @@ const priyanshu = {
 
 <div align="center">
 
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/priyanshujoshi877/priyanshujoshi877/output/github-contribution-grid-snake-dark.svg"
+  width="95%"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
+
 ### 💙 Thanks for visiting my profile!
 
 
